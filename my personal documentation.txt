@@ -1,0 +1,114 @@
+mulin ma api balamu jupytor note book eke extentin eka vs code eke install karaganna
+
+site ekak balaana karaddi below prashna ei 
+
+python -m pip install --upgrade pip
+run kalaama 
+
+ERROR: Could not install packages due to an OSError: [WinError 5] Access is denied: 'C:\\Python39\\Lib\\site-packages\\pip\\__init__.py'
+Consider using the `--user` option or check the permissions.
+
+kiyala error ekak enwa 
+
+so cmd eka administrator mode eke open karamu
+
+python -m pip install --upgrade pip
+
+
+
+ERROR: Exception:
+Traceback (most recent call last):
+  File "C:\Users\gam22\AppData\Roaming\Python\Python39\site-packages\pip\_internal\cli\base_command.py", line 167, in exc_logging_wrapper
+    status = run_func(*args)
+  File "C:\Users\gam22\AppData\Roaming\Python\Python39\site-packages\pip\_internal\cli\req_command.py", line 205, in wrapper
+    return func(self, options, args)
+  File "C:\Users\gam22\AppData\Roaming\Python\Python39\site-packages\pip\_internal\commands\install.py", line 407, in run
+    installed = install_given_reqs(
+  File "C:\Users\gam22\AppData\Roaming\Python\Python39\site-packages\pip\_internal\req\__init__.py", line 73, in install_given_reqs
+    requirement.install(
+
+me wage digata tyena error ekk awa
+
+mn python uninstall karala aaya danna baluwe
+
+
+
+
+
+aaya meeka install karanna kiala error eka aawa
+
+d:/Python310/python.exe -m pip install ipykernel -U --user --force-reinstall
+
+
+eeka karaa
+ethkota 
+
+ WARNING: The script pygmentize.exe is installed in 'C:\Users\gam22\AppData\Roaming\Python\Python310\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  Running setup.py install for psutil ... error
+  error: subprocess-exited-with-error
+
+  × Running setup.py install for psutil did not run successfully.
+  │ exit code: 1
+  ╰─> [40 lines of output]
+      running install
+      C:\Users\gam22\AppData\Roaming\Python\Python310\site-packages\setuptools\command\install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+
+
+
+
+e nisa mama nikanma 
+pip install ipykernel		kiyala gahuwa 
+eeth ara error ekamaawa
+
+
+
+kohomath yata mehema thibba
+
+error: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+      [end of output]
+
+
+e nisa mma eka search kalaa
+
+
+https://stackoverflow.com/questions/64261546/how-to-solve-error-microsoft-visual-c-14-0-or-greater-is-required-when-inst
+meke tyenwa answer
+
+c++ build tool kiyana eka thibbe nah 
+but 
+desktop dev tools for c+++ wage ekak t hibba
+kohoma unath icon eka ekai . 
+kalin eke ekamai 
+e nisa aulak naha
+
+eeke windws sdk ekai anith ekai tick karala install kalaa 
+
+
+[**************************
+kenek daala thibba
+https://download.visualstudio.microsoft.com/download/pr/366c0fb9-fe05-4b58-949a-5bc36e50e370/015EDD4E5D36E053B23A01ADB77A2B12444D3FB6ECCEFE23E3A8CD6388616A16/VC_redist.x64.exe
+meeka install karaama wAda karaa lu eyaata . aaya visual studio oni une nahalu 
+
+so e widihata karanna iilagapara
+]
+
+
+
+hari 
+
+ambo yaanthan eeka configure karagattha 
+
+dan development tyenne 
+
+
+================
+
+
+
+
+
+
+
+
+
