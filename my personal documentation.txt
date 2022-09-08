@@ -35,6 +35,9 @@ mn python uninstall karala aaya danna baluwe
 
 
 
+
+
+
 aaya meeka install karanna kiala error eka aawa
 
 d:/Python310/python.exe -m pip install ipykernel -U --user --force-reinstall
@@ -112,3 +115,5 @@ dan development tyenne
 
 
 
+python wala ekama namin function ekkui variable ekkui tyaganna baha 
+kelawenwa     
